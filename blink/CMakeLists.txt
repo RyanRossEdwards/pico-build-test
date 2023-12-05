@@ -1,3 +1,5 @@
+# Run with: cmake -DPICO_BOARD=pico_w ..
+
 cmake_minimum_required(VERSION 3.12)
 
 # Pull in SDK (must be before project)
